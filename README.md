@@ -1,6 +1,6 @@
 
 # **Windows**
-## Download SetUp: **[Stopwrdz]**(https://github.com/TrustViking/stopwrdz_setup/archive/main.zip)
+## Download SetUp: [Stopwrdz](https://github.com/TrustViking/stopwrdz_setup/archive/main.zip)
 
 
 Stopwrdz is a command-line tool designed to replace prohibited stop words in video titles, specifically tailored for compliance with TikTok's guidelines.
